@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "../Nav";
 
-function Header(props) {
+function appHeader(props) {
   const { currentTab, handleTabChange } = props;
 
   return (
@@ -40,4 +40,4 @@ function Header(props) {
   );
 }
 
-export default Header;
+export default appHeader;

@@ -27,10 +27,6 @@ function Contact() {
       setErrorMessage("Please provide a valid email, name, and message.");
       return;
     }
-
-    // Your form submission logic can go here
-
-    // Clear form fields after submission
     setFormData({
       email: "",
       userName: "",

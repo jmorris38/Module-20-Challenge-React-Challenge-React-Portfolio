@@ -2,7 +2,7 @@ import React from "react";
 import profileImage from "../../assets/large/Profile/Profile_Pic.png";
 import "../About/style.css";
 
-function About() {
+function AboutMe() {
   return (
     <section id="about-me" className="about-container">
       <div className="about-header">
@@ -31,4 +31,4 @@ function About() {
   );
 }
 
-export default About;
+export default AboutMe;

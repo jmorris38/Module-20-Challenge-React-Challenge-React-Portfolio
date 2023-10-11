@@ -3,7 +3,7 @@ import { VscGithubAlt } from "react-icons/vsc";
 import { AiOutlineLinkedin } from "react-icons/ai";
 import { FaInstagram } from "react-icons/fa";
 
-function Footer() {
+function appFooter() {
   return (
     <footer>
       <h2>Crafted by Justin Morris©</h2>
@@ -30,4 +30,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default appFooter;
