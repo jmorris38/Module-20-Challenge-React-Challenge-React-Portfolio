@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/css/main.400cb6cf.css",
+    "main.js": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/js/main.1a2e20c4.js",
+    "static/js/787.aeca62f9.chunk.js": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/js/787.aeca62f9.chunk.js",
+    "static/media/Sweet-Pea-Flowers.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
+    "static/media/HomeBrew.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/HomeBrew.9a3065b69b6b418dc2a7.png",
+    "static/media/Twilight_Ristorante.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
+    "static/media/Summer_Punch.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Summer_Punch.c7da771fb6c126146be3.png",
+    "static/media/Weather_Dash.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/Sphere.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Sphere.ac26b22491da9c538736.png",
+    "static/media/NoteTaker.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/Profile_Pic.png": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Profile_Pic.5c813aa28223a596a9ac.png",
+    "static/media/Justin_Morris_1.doc": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/media/Justin_Morris_1.d6ee3f6daa643a55683b.doc",
+    "index.html": "/Module-20-Challenge-React-Challenge-React-Portfolio/index.html",
+    "main.400cb6cf.css.map": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/css/main.400cb6cf.css.map",
+    "main.1a2e20c4.js.map": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/js/main.1a2e20c4.js.map",
+    "787.aeca62f9.chunk.js.map": "/Module-20-Challenge-React-Challenge-React-Portfolio/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400cb6cf.css",
+    "static/js/main.1a2e20c4.js"
+  ]
+}
